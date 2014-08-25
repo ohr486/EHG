@@ -60,4 +60,4 @@ TODO:参考にした書籍を追加
 
 この文章へのハイパーリンクはリンク先を問わず御自由になさって下さい。報告は一切不要です。
 
-ご意見・ご感想・指摘等は、twitter@ohrdev、[ohr486ohr486@gmail.com](mailto:ohr486@gmail.com)までおねがいします。
+ご意見・ご感想・指摘等は、twitter@ohrdev、[ohr486](mailto:ohr486@gmail.com)までおねがいします。
