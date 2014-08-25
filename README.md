@@ -40,7 +40,7 @@ Ch03.実行ファイル(elixir,elixirc,iex,mix)について
 
 Ch04.ライブラリ(eex,elixir,ex_unit,iex,logger,mix)について
 
-Ch05.Elixirビルド時に何が起こっているか
+[Ch05.Elixirビルド時に何が起こっているか](./ch05.md)
 
 Ch06.Elixir実行時に何が起こっているか
 
