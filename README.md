@@ -7,18 +7,18 @@ Elixir Hacking Guide
 
 [Elixir](http://elixir-lang.org/)はErlangVM上で動作する関数型・メタプログラミング可能な言語です。
 
-Elixirは[Erlang](http://www.erlang.org/)の
+またElixirは[Erlang](http://www.erlang.org/)の
 
 - 分散環境
-- 障害体制(フォルトトレラント)
+- 障害耐性(フォルトトレラント)
 - 無停止稼動
 
-といった仕組み・機能を使う事に特化した動的言語でもあります。
+といった仕組み・機能を効率良く使う事ができる動的言語でもあります。
 
 本文章のテーマは
 
 - Elixirの構造を知る
-- Erlangの TODO:後で書く
+- ErlangのOTPアプリケーションの構築方法を知る
 - Elixir,Erlangについての勉強のアウトプット
 - etc
 
@@ -30,23 +30,23 @@ Elixirは[Erlang](http://www.erlang.org/)の
 
 TODO:チャプターのリンクを付ける
 
-Ch0.事前準備
+[Ch00.事前準備](./ch00.md)
 
-Ch1.Elixirビルドの為のツールについて
+Ch01.Elixirビルドの為のツールについて
 
-Ch2.Elixirアプリのフォルダ構成について
+Ch02.Elixirアプリのフォルダ構成について
 
-Ch3.実行ファイル(elixir,elixirc,iex,mix)について
+Ch03.実行ファイル(elixir,elixirc,iex,mix)について
 
-Ch4.ライブラリ(eex,elixir,ex_unit,iex,logger,mix)について
+Ch04.ライブラリ(eex,elixir,ex_unit,iex,logger,mix)について
 
-Ch5.Elixirビルド時に何が起こっているか
+Ch05.Elixirビルド時に何が起こっているか
 
-Ch6.Elixir実行時に何が起こっているか
+Ch06.Elixir実行時に何が起こっているか
 
-Ch7.Erlangとの関係について
+Ch07.Erlangとの関係について
 
-Ch8.xxx TODO:順次チャプター追加
+Ch08.xxx TODO:順次チャプター追加
 
 ### 参考にした文献・書籍・文章について
 
@@ -58,6 +58,5 @@ TODO:参考にした書籍を追加
 
 この文章は個人の範囲でご利用下さい。
 
-この文章へのハイパーリンクはリンク先を問わず御自由になさって下さい。報告は一切不要です。
-
-ご意見・ご感想・指摘等は、twitter@ohrdev、[ohr486](mailto:ohr486@gmail.com)までおねがいします。
+この文章へのハイパーリンクはリンク先を問わず御自由になさって下さい。
+報告は一切不要です。
