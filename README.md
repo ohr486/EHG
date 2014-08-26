@@ -34,7 +34,7 @@ TODO:チャプターのリンクを付ける
 
 Ch01.Elixirビルドの為のツールについて
 
-Ch02.Elixirアプリのフォルダ構成について
+[Ch02.Elixirアプリのフォルダ構成](./ch02.md)
 
 Ch03.実行ファイル(elixir,elixirc,iex,mix)について
 
@@ -46,17 +46,29 @@ Ch06.Elixir実行時に何が起こっているか
 
 Ch07.Erlangとの関係について
 
-Ch08.xxx TODO:順次チャプター追加
+Ch08.Elixirの構文について
+
+Ch0x.TODO:順次追加
 
 ### 参考にした文献・書籍・文章について
 
-本文章は以下の文献・書籍・文章を参考に作成しています。
+本文章は以下の書籍・Webサイトを参考に作成しています。
 
-TODO:参考にした書籍を追加
+#### 書籍
+
+- [プログラミングErlang](http://www.amazon.co.jp/プログラミングErlang-Joe-Armstrong/dp/4274067149/)
+- [すごいErlangゆかいに学ぼう!](http://www.amazon.co.jp/すごいErlangゆかいに学ぼう-Fred-Hebert/dp/4274069125)
+- [Erlangプログラミング](http://www.amazon.co.jp/Erlangプログラミング-Francesco-Cesarini/dp/4873114659/)
+- [Erlang and OTP in Action](http://www.amazon.co.jp/Erlang-OTP-Action-Martin-Logan/dp/1933988789/)
+
+#### Webサイト
+
+- [Elixir公式サイト](http://elixir-lang.org/)
+- [Erlang公式サイト](http://www.erlang.org/)
+- [Erlangユーザーズガイド](http://erlang.shibu.jp/)
 
 ### ライセンスについて
 
 この文章は個人の範囲でご利用下さい。
 
-この文章へのハイパーリンクはリンク先を問わず御自由になさって下さい。
-報告は一切不要です。
+この文章へのハイパーリンクはリンク先を問わず御自由になさって下さい。 報告は一切不要です。
