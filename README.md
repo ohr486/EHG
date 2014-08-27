@@ -31,23 +31,17 @@ Elixir Hacking Guide
 
 [Ch00.事前準備](./ch00.md)
 
-Ch01.Elixirビルドの為のツールについて
+[Ch01.Elixirアプリのフォルダ構成](./ch01.md)
 
-[Ch02.Elixirアプリのフォルダ構成](./ch02.md)
+[Ch02.Elixirビルド時に何が起こっているか](./ch04.md)
 
-Ch03.実行ファイル(elixir,elixirc,iex,mix)について
+Ch0x.実行ファイル(`elixir`,`elixirc`,`iex`,`mix`)について
 
-Ch04.ライブラリ(eex,elixir,ex_unit,iex,logger,mix)について
+Ch0x.関連ライブラリ(`eex`,`elixir`,`ex_unit`,`iex,logger`,`mix`)について
 
-[Ch05.Elixirビルド時に何が起こっているか](./ch05.md)
+Ch0x.Erlangとの関係について
 
-Ch06.Elixir実行時に何が起こっているか
-
-Ch07.Erlangとの関係について
-
-Ch08.Elixirの構文について
-
-Ch0x.TODO:順次追加
+Ch0x.Elixirの構文について
 
 Ch0x.yeccの使い方
 
