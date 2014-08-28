@@ -1,7 +1,8 @@
 Elixir Hacking Guide
 ====================
 
-### 本文章について
+本文章について
+--------------
 
 本文章は[Rubyソースコード完全解説(RHG)](http://i.loveruby.net/ja/rhg/book/)にインスパイアされて作成しました。
 
@@ -25,7 +26,8 @@ Elixir Hacking Guide
 
 です。
 
-### 本文章の構成について
+本文章の構成について
+--------------------
 
 本文章は以下の章から構成されます。
 
@@ -45,11 +47,12 @@ Ch0x.Elixirの構文について
 
 Ch0x.yeccの使い方
 
-### 参考にした文献・書籍・文章について
+参考にした文献・書籍・文章について
+----------------------------------
 
 本文章は以下の書籍・Webサイトを参考に作成しています。
 
-#### 書籍
+### 書籍
 
 - [プログラミングErlang](http://www.amazon.co.jp/プログラミングErlang-Joe-Armstrong/dp/4274067149/)
 - [すごいErlangゆかいに学ぼう!](http://www.amazon.co.jp/すごいErlangゆかいに学ぼう-Fred-Hebert/dp/4274069125)
@@ -57,14 +60,15 @@ Ch0x.yeccの使い方
 - [Erlang and OTP in Action](http://www.amazon.co.jp/Erlang-OTP-Action-Martin-Logan/dp/1933988789/)
 - [Rubyを256倍使うための本 無道編](http://www.amazon.co.jp/Rubyを256倍使うための本-無道編-青木-峰郎/dp/4756137091)
 
-#### Webサイト
+### Webサイト
 
 - [Elixir公式サイト](http://elixir-lang.org/)
 - [Erlang公式サイト](http://www.erlang.org/)
 - [Erlangユーザーズガイド](http://erlang.shibu.jp/)
 - [Rubyソースコード完全解説(RHG)](http://i.loveruby.net/ja/rhg/book/)
 
-### ライセンスについて
+ライセンスについて
+------------------
 
 この文章は個人の範囲でご利用下さい。
 
