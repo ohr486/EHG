@@ -37,6 +37,14 @@ Elixir Hacking Guide
 
 [Ch02.Elixirビルド時に何が起こっているか](./ch02.md)
 
+Ch0x.elixir_compiler:coreによるElixirコアモジュールコンパイル
+
+Ch0x.elixir:start_cliによるElixirカーネルコンパイル
+
+Ch0x.elixir:start_cliによる標準ライブラリコンパイル
+
+Ch0x.elixir:start_cliによるUnicodeモジュールコンパイル
+
 Ch0x.実行ファイル(`elixir`,`elixirc`,`iex`,`mix`)について
 
 Ch0x.関連ライブラリ(`eex`,`elixir`,`ex_unit`,`iex,logger`,`mix`)について
