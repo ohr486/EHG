@@ -31,13 +31,23 @@ Elixir Hacking Guide
 
 本文章は以下の章から構成されます。
 
+### Elixirのビルド
+
 [Ch00.事前準備](./ch00.md)
 
 [Ch01.Elixirアプリのフォルダ構成](./ch01.md)
 
 [Ch02.Elixirビルド時に何が起こっているか](./ch02.md)
 
-Ch0x.elixir_compiler:coreによるElixirコアモジュールコンパイル
+### Elixirコンパイラ
+
+Ch03.elixirコンパイラのコンパイル
+
+Ch04.yeccの使い方
+
+### Elixirカーネル
+
+[Ch05.Elixirコアモジュール](./ch05.md)
 
 Ch0x.elixir:start_cliによるElixirカーネルコンパイル
 
@@ -47,15 +57,15 @@ Ch0x.elixir:start_cliによるUnicodeモジュールコンパイル
 
 Ch0x.実行ファイル(`elixir`,`elixirc`,`iex`,`mix`)について
 
+### Appendix
+
+[rebarの使い方](./apdA.md)
+
 Ch0x.関連ライブラリ(`eex`,`elixir`,`ex_unit`,`iex,logger`,`mix`)について
 
 Ch0x.Erlangとの関係について
 
 Ch0x.Elixirの構文について
-
-Ch0x.yeccの使い方
-
-[rebarの使い方](./apdA.md)
 
 参考にした文献・書籍・文章について
 ----------------------------------
