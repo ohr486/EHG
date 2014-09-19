@@ -61,6 +61,8 @@ Ch0x.実行ファイル(`elixir`,`elixirc`,`iex`,`mix`)について
 
 [rebarの使い方](./apdA.md)
 
+[ErlangのATS](./apdB.md)
+
 Ch0x.関連ライブラリ(`eex`,`elixir`,`ex_unit`,`iex,logger`,`mix`)について
 
 Ch0x.Erlangとの関係について
