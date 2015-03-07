@@ -88,6 +88,8 @@ Ch0x.Elixirの構文について
 - [Erlang公式サイト](http://www.erlang.org/)
 - [Erlangユーザーズガイド](http://erlang.shibu.jp/)
 - [Rubyソースコード完全解説(RHG)](http://i.loveruby.net/ja/rhg/book/)
+- [awesome-elixir](https://github.com/h4cc/awesome-elixir)
+- [awesome-erlang](https://github.com/drobakowski/awesome-erlang)
 
 ライセンスについて
 ------------------
