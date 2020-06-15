@@ -41,9 +41,9 @@ Elixir Hacking Guide
 
 ### Elixirコンパイラ
 
-Ch03.elixirコンパイラのコンパイル
+[Ch03.elixirコンパイラのコンパイル](./ch03.md)
 
-Ch04.yeccの使い方
+[Ch04.yeccの使い方](./ch04.md)
 
 ### Elixirカーネル
 
