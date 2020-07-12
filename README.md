@@ -39,7 +39,17 @@ Elixir Hacking Guide
 
 [Ch02.Elixirビルド時に何が起こっているか](./ch02.md)
 
+### Elixirの実行バイナリ
+
+Ch0x.Elixirプログラムの実行
+
+Ch0x.Elixirコマンドの実体
+
 ### Elixirコンパイラ
+
+Ch0x.一般的なコンパイラの概要
+
+Ch0x.Elixirコンパイラの概要
 
 [Ch03.elixirコンパイラのコンパイル](./ch03.md)
 
@@ -49,13 +59,7 @@ Elixir Hacking Guide
 
 [Ch05.Elixirコアモジュール](./ch05.md)
 
-Ch0x.elixir:start_cliによるElixirカーネルコンパイル
-
-Ch0x.elixir:start_cliによる標準ライブラリコンパイル
-
-Ch0x.elixir:start_cliによるUnicodeモジュールコンパイル
-
-Ch0x.実行ファイル(`elixir`,`elixirc`,`iex`,`mix`)について
+Ch0x.elixirのxxxアプリ
 
 ### Appendix
 
@@ -63,11 +67,6 @@ Ch0x.実行ファイル(`elixir`,`elixirc`,`iex`,`mix`)について
 
 [ErlangのATS](./apdB.md)
 
-Ch0x.関連ライブラリ(`eex`,`elixir`,`ex_unit`,`iex,logger`,`mix`)について
-
-Ch0x.Erlangとの関係について
-
-Ch0x.Elixirの構文について
 
 参考にした文献・書籍・文章について
 ----------------------------------
