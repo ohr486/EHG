@@ -59,7 +59,7 @@ Ch0x.実行ファイル(`elixir`,`elixirc`,`iex`,`mix`)について
 
 ### Appendix
 
-[rebarの使い方](./apdA.md)
+[Makefile基礎](./apdA.md)
 
 [ErlangのATS](./apdB.md)
 

@@ -1,4 +1,2 @@
-# ApdA.rebarの使い方
+# Makefile基礎
 
-http://qiita.com/ohr486/items/b33cfcf0978ec51afc63
-を整理してまとめる
