@@ -1,4 +1,4 @@
-ApdB.ErlangのATS
+ApdB.ErlangのAST
 ================
 
 Elixirの実体はerlコマンドを各種引数付きで実行させる シェルスクリプトという事は(xxx)で説明しました。
@@ -30,10 +30,10 @@ Step1.ソースファイルをスキャン(erl_scan)して文字列に変換
 Step2.ソースの文字列をトークンに変換
 ------------------------------------
 
-Step3.トークンをパースしてATSに変換
+Step3.トークンをパースしてASTに変換
 -----------------------------------
 
-Step4.ATSをerl_evalで評価する
+Step4.ASTをerl_evalで評価する
 -----------------------------
 
 Step5.Elixirの場合は?
@@ -41,10 +41,10 @@ Step5.Elixirの場合は?
 
 Elixirのコンパイルでは、以下の様にソースファイルが実行されます。
 
-1. ElixirのソースファイルをElixirのATSに変換
-2. ElixirのATSをErlangのATSに変換
-3. ErlangのATSをerl_evalして実行/beamファイルを作成
+1. ElixirのソースファイルをElixirのASTに変換
+2. ElixirのASTをErlangのASTに変換
+3. ErlangのASTをerl_evalして実行/beamファイルを作成
 
-上記の様にElixirのコンパイラで作成されるbeamファイルは、 Erlangのコンパイラが作成するbeamファイルと同等のものです。 (何故ならATSレベルでElixirからErlangに変換されるから)
+上記の様にElixirのコンパイラで作成されるbeamファイルは、 Erlangのコンパイラが作成するbeamファイルと同等のものです。 (何故ならASTレベルでElixirからErlangに変換されるから)
 
 つまり、ElixirとErlangでは、実行のオーバーヘッドが無いという事です。

@@ -65,7 +65,7 @@ Ch0x.elixirのxxxアプリ
 
 [Makefile基礎](./apdA.md)
 
-[ErlangのATS](./apdB.md)
+[ErlangのAST](./apdB.md)
 
 
 参考にした文献・書籍・文章について
