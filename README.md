@@ -41,25 +41,25 @@ Elixir Hacking Guide
 
 ### Elixirの実行バイナリ
 
-Ch0x.Elixirプログラムの実行
+Ch03.Elixirプログラムの実行
 
-Ch0x.Elixirコマンドの実体
+Ch04.Elixirコマンドの実体
 
 ### Elixirコンパイラ
 
-Ch0x.一般的なコンパイラの概要
+Ch05.一般的なコンパイラの概要
 
-Ch0x.Elixirコンパイラの概要
+Ch06.Elixirコンパイラの概要
 
-[Ch03.elixirコンパイラのコンパイル](./ch03.md)
+[Ch07.elixirコンパイラのコンパイル](./ch07.md)
 
-[Ch04.yeccの使い方](./ch04.md)
+[Ch08.yeccの使い方](./ch08.md)
 
 ### Elixirカーネル
 
-[Ch05.Elixirコアモジュール](./ch05.md)
+[Ch09.Elixirコアモジュール](./ch09.md)
 
-Ch0x.elixirのxxxアプリ
+Ch10.elixirのxxxアプリ
 
 ### Appendix
 
