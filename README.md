@@ -43,7 +43,7 @@ Elixir Hacking Guide
 
 Ch03.Elixirプログラムの実行
 
-Ch04.Elixirコマンドの実体
+[Ch04.Elixirコマンドの実体](./ch04.md)
 
 ### Elixirコンパイラ
 
