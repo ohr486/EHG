@@ -59,7 +59,7 @@ Ch03.Elixirプログラムの実行
 
 [Ch09.Elixirコアモジュール](./ch09.md)
 
-Ch10.elixirのxxxアプリ
+[Ch10.elixirのxxxアプリ](./ch10.md)
 
 ### Appendix
 
